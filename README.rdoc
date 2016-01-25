@@ -1,7 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This website uses the postmates API to deliver prescription drugs to your doorsteps. No more waiting in long lines.
+This project is currently incomplete and a WIP.
 
 Things you may want to cover:
 
